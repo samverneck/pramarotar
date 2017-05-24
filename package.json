@@ -1,0 +1,31 @@
+{
+  "name": "pramarotar",
+  "version": "1.0.0",
+  "description": "Pra marotar!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samverneck/pramarotar.git"
+  },
+  "keywords": [
+    "Pra",
+    "marotar!",
+    "Tudo",
+    "nosso!",
+    "É",
+    "nois!"
+  ],
+  "author": "Samuel Verneck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samverneck/pramarotar/issues"
+  },
+  "homepage": "https://github.com/samverneck/pramarotar#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "lodash": "^4.17.4"
+  }
+}
